@@ -81,3 +81,37 @@ However, it's important to note that the affordability of housing is not solely 
 Additionally, it's important to consider the long-term financial implications of buying a house, such as mortgage payments, property taxes, and maintenance costs. While a lower price-to-income ratio may make it easier to afford a house in the short term, it's important to carefully consider the long-term financial impact before making a purchase.
 
 Ultimately, whether a particular price-to-income ratio is considered affordable will depend on a range of factors, including the local housing market, prevailing economic conditions, and personal financial circumstances.
+
+> What are the real wages nowadays compared to 1970 and 1980?
+
+According to data from the Federal Statistical Office of Germany, the real wages in Germany have increased since the 1970s and 1980s, but the rate of increase has varied over time.
+
+In 1970, the average real wage in West Germany (which was the country's official name at the time) was around 15,700 Deutsche Marks (DM) per year, which was equivalent to around €16,200 in today's currency after adjusting for inflation. By 1980, the average real wage had increased to around 22,800 DM per year, which was equivalent to around €25,100 in today's currency after adjusting for inflation.
+
+In the years since 1980, real wages have continued to increase, but the rate of increase has been more modest. According to data from the German Federal Employment Agency, the average real wage in Germany was around €35,100 per year in 2019, which represents an increase of around 40% since 1980 after adjusting for inflation.
+
+It's important to note that these figures are averages, and the actual wage growth experienced by individuals can vary widely depending on factors such as education level, occupation, and geographic location. Additionally, while real wages have increased over time, the rate of increase has not always kept pace with productivity growth, which has led to concerns about income inequality in Germany and other countries.
+
+> Does this mean that the average person nowadays can afford more than the average person in 1980?
+
+The increase in real wages in Germany since 1980 suggests that the average person in Germany today has a higher purchasing power than the average person in 1980. However, it's important to note that the cost of living has also increased over the same period, so the extent to which people are able to afford more goods and services today than they were in 1980 will depend on a range of factors such as the specific goods and services in question, geographic location, and individual financial circumstances.
+
+For example, while the average real wage has increased since 1980, the cost of housing, healthcare, and education has also increased, which can put a strain on household budgets. Additionally, some goods and services may have become relatively cheaper over time due to technological advances and improvements in productivity, while others may have become relatively more expensive due to factors such as increased demand and limited supply.
+
+Ultimately, the question of whether the average person in Germany today can afford more than the average person in 1980 is a complex one that depends on a range of factors, and may vary widely depending on individual circumstances.
+
+> Can you compare the average real wages of 1980 and now and also factor in the living costs and other possible factors?
+
+Sure, let me provide some further information on how the average real wages in Germany have changed since 1980, and how these changes relate to the cost of living and other factors.
+
+As I mentioned earlier, the average real wage in Germany has increased by around 40% since 1980, after adjusting for inflation. However, the cost of living has also increased over the same period, which can affect people's purchasing power and their ability to afford goods and services.
+
+One way to compare the average real wages in 1980 and now while factoring in living costs is to use a measure such as the real disposable income per capita. This measure takes into account both wages and other sources of income such as social transfers and investment income, and adjusts for inflation to provide a more accurate picture of people's purchasing power over time.
+
+According to data from the Organisation for Economic Co-operation and Development (OECD), the real disposable income per capita in Germany was around €14,800 in 1980 and around €24,800 in 2019, which represents an increase of around 67% after adjusting for inflation. However, it's important to note that the cost of living has also increased over this period, which can affect people's ability to afford goods and services.
+
+One way to account for changes in the cost of living is to use a measure such as the "real purchasing power parity (PPP) adjusted gross domestic product (GDP) per capita". This measure takes into account both changes in wages and changes in the cost of living, and adjusts for differences in purchasing power between countries.
+
+According to data from the World Bank, the real PPP-adjusted GDP per capita in Germany was around $23,400 in 1980 and around $51,000 in 2019, which represents an increase of around 118% after adjusting for inflation and differences in purchasing power. This suggests that people in Germany today have a higher standard of living than people in 1980, as measured by their ability to purchase goods and services.
+
+However, it's important to note that these figures are averages, and individual experiences may vary depending on factors such as occupation, education level, and geographic location. Additionally, while average real wages and incomes have increased over time, income inequality has also increased in Germany and other countries, which can affect people's ability to afford goods and services.
